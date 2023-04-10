@@ -1,0 +1,30 @@
+:root {
+   --banco-principal: #000;
+   --beje-bacground: #829fdb;
+}
+
+body {
+    background-color: var(--beje-bacground);
+    color: var(--banco-principal)
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.principal {
+
+}
+
+.container__imagem {
+    margin: 1em 0 2em 0;
+}
+
+.container__caixa {
+    margin: 0 10em;
+}
+
+.size {
+    px: 50px;
+}
